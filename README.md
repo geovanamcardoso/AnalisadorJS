@@ -13,13 +13,9 @@ Após finalizar, o sistema realiza a análise dos dados inseridos, exibindo:
 
 ## 🎯Objetivo
 - Praticar e revisar os fundamentos de HTML, CSS e JavaScript.
-
 - Utilizar a manipulação do DOM para gerar conteúdo dinamicamente.
-
 - Trabalhar com eventos de clique e validação de campos.
-
 - Reforçar o uso de estruturas de condição e repetição em JavaScript. 
-
 - Praticar a criação e uso de Vetores (arrays) e funções em JavaScript.
 
 ## 🛠️ Ferramentas
